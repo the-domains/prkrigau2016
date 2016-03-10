@@ -21,8 +21,8 @@ color:
     - '#e3007c'
     - '#e4007b'
     - '#e4007c'
-  brandStrength: 0.25
-  lightness: 0.6875
+  brandStrength: 0.3125
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
 purpose: []
