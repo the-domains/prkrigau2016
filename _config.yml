@@ -1,7 +1,7 @@
 name: '#PRKrigAU2016'
 favicon: null
 layout_spectrum: 0.92154
-typography_spectrum: 0.6579909110441804
+typography_spectrum: 0.32888
 title: '#PRKrigAU2016'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fdfdfd'
+    - '#000000'
+    - '#d14343'
+    - '#1e5268'
+    - '#cf72f6'
   brandStrength: 0.0625
-  lightness: 0.0674321309197694
-  saturation: 0.29883175645954907
-  rhythmicContrast: 0.5051335531752557
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
